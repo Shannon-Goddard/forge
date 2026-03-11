@@ -110,5 +110,32 @@
                                `STATUS: WITNESSED.`;
         }
     </script>
+    <div class="store-links">
+    <a href="https://apps.apple.com/app/id123" class="badge">
+        <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on App Store">
+    </a>
+    
+    <a href="https://play.google.com/store/apps/details?id=com.loyal9.forge" class="badge">
+        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" style="height: 60px;">
+    </a>
+</div>
+
+<style>
+    .store-links {
+        margin-top: 40px;
+        display: flex;
+        gap: 20px;
+        align-items: center;
+        /* Optional: Desaturate badges to keep the monochromatic vibe */
+        filter: grayscale(1) brightness(0.8);
+        transition: filter 0.3s ease;
+    }
+    .store-links:hover {
+        filter: grayscale(0) brightness(1);
+    }
+    .badge img {
+        height: 45px; /* Keeps them uniform */
+    }
+</style>
 </body>
 </html>
