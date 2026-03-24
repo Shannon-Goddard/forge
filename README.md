@@ -1,4 +1,4 @@
-# forge.
+# .forge
 
 ![Build Time](https://img.shields.io/badge/BUILD_TIME-%3C2_HOURS-brightgreen?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Aura Points](https://img.shields.io/badge/AURA-DETERMINISTIC-blueviolet?style=for-the-badge)
@@ -6,12 +6,12 @@
 [![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](YOUR_APP_STORE_URL)
 [![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](YOUR_GOOGLE_PLAY_URL)
 
-> **forge.** does not ask how you feel. It tells you who you are.
+> **.forge** does not ask how you feel. It tells you who you are.
 
 ---
 
 ### THE MANIFESTO
-A deterministic identity lab. forge. synthesizes live biometric data and digital consumption to generate a **vibe receipt**—a timestamped proof of your current state.
+A deterministic identity lab. .forge synthesizes live biometric data and digital consumption to generate a **vibe receipt**—a timestamped proof of your current state.
 
 * **NO STORAGE:** Your data is forged, printed, and purged. The app remembers nothing.
 * **NO OPTIONS:** You cannot mute the pulse. You cannot change the color. The truth is not customizable.
@@ -100,11 +100,11 @@ Forge **3 times** to unlock **.signal**—a persistent ambient layer that bleeds
 
 ### iOS — Lock Screen Widget Setup
 
-1. Open **forge.** and forge at least **3 times** to unlock Signal Mode.
+1. Open **.forge** and forge at least **3 times** to unlock Signal Mode.
 2. Lock your device, then **long press** the Lock Screen.
 3. Tap **Customize** → select your Lock Screen.
 4. Tap the widget area (above or below the clock).
-5. Scroll or search for **forge.** in the widget list.
+5. Scroll or search for **.forge** in the widget list.
 6. Select a size: Circular, Rectangular, Small, or Medium.
 7. Tap **Done** → **Set as Wallpaper Pair**.
 
@@ -114,9 +114,9 @@ Your Lock Screen now pulses with your last forged vibe state.
 
 ### Android — Live Wallpaper Setup
 
-1. Open **forge.** and forge at least **3 times** to unlock Signal Mode.
+1. Open **.forge** and forge at least **3 times** to unlock Signal Mode.
 2. **Long press** your home screen → tap **Wallpapers**.
-3. Look for **Live Wallpapers** or **forge. signal** in the list.
+3. Look for **Live Wallpapers** or **.forge signal** in the list.
 4. Select it → tap **Set wallpaper** → choose Home screen, Lock screen, or both.
 
 > **Note for some devices (Moto, Samsung, etc.):** Some Android manufacturers hide live wallpapers from the default picker. If you don't see it:
