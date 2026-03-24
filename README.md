@@ -133,6 +133,7 @@ Your Lock Screen now pulses with your last forged vibe state.
 
 ---
 
-[![Privacy Policy](https://img.shields.io/badge/PRIVACY-PROTOCOL_v1.0-333333?style=flat-square)](YOUR_PRIVACY_URL)
+[![Privacy Policy](https://img.shields.io/badge/PRIVACY-PROTOCOL_v1.0-333333?style=flat-square)](https://forge.loyal9.app/privacy.html)
+[![FORGE_SYSTEM_v0.1.26](https://img.shields.io/badge/FORGE-SYSTEM_v0.1.26-333333?style=flat-square)](https://forge.loyal9.app)
 
 `[ END OF DATA ]`
